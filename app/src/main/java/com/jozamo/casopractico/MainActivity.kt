@@ -27,14 +27,4 @@ class MainActivity : AppCompatActivity() {
         intent.putExtra("OPERATION", operation)
         startActivity(intent)
     }
-
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
-        Log.i("VALOR", "$requestCode $resultCode")
-        if (requestCode == 1) {
-            if (resultCode == Activity.RESULT_OK) finish()
-        }
-
-    }
-
 }
