@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suma">Sumar</string>
+    <string name="sub">restar</string>
+    <string name="multi">Multiplicar</string>
+    <string name="div">Dividir</string>
+    <string name="opcion">Elige una opción</string>
+    <string name="result">Result</string>
+    <string name="value_1">Valor 1</string>
+    <string name="value_2">Valor 2</string>
+    <string name="newx">Nueva operación</string>
+    <string name="exit">Salir</string>
+    <string name="calculate">Calcular</string>
+    <string name="div_zero">División por cero no permitida</string>
+    <string name="fields_not_empty">Los campos no pueden estar vacios</string>
+
+</resources>

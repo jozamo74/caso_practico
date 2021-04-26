@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Caso Practico</string>
+    <string name="suma">Add</string>
+    <string name="sub">Subtract</string>
+    <string name="multi">Multiply</string>
+    <string name="div">Divide</string>
+    <string name="opcion">Choose an Option</string>
+    <string name="result">Result</string>
+    <string name="value_1">Value 1</string>
+    <string name="value_2">Value 2</string>
+    <string name="exit">Exit</string>
+    <string name="newx">New Operation</string>
+    <string name="calculate">Calculate</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="div_zero">division by zero not allowed</string>
+    <string name="fields_not_empty">Fields cannot be empty</string>
+</resources>
